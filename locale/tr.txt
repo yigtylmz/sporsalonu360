@@ -1,0 +1,16 @@
+#: locale=tr
+
+## Media
+
+### Title
+panorama_3EFA01A5_33BD_3275_41BA_840B0D4DA19F.label = 02
+panorama_394BFB3F_33BD_3656_41BC_5CDFAE89FF40.label = 23
+panorama_39569EE6_33BD_4FF7_41C5_EBCA049BD300.label = 55
+panorama_395761B0_33BD_526A_4194_3ADAAD3AD51A.label = 56
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
